@@ -18,3 +18,7 @@ I build production software, detection tooling and AI features as the sole techn
 - **[NetPulse](https://github.com/NexusFang-tech/netpulse):** outage monitor for Meraki and FortiGate networks
 
 Python · Go · PowerShell · Azure · Entra ID · Microsoft Graph · Anthropic API
+
+## Research in progress
+
+**[Poisoned Context](https://github.com/NexusFang-tech/poisoned-context):** measures whether AI assistants follow instructions hidden in the database records they're given. The harness is public; results aren't published yet.
