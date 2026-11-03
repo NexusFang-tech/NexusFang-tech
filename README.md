@@ -1,6 +1,6 @@
 # Matt Keith
 
-I build production software, detection tooling and AI features as the sole technologist at a statewide association in North Carolina. I work with Claude as my development partner and review what ships.
+I build production software, detection tooling and AI features as the Technology Services Manager at a statewide association in North Carolina.
 
 **[Portfolio and live labs](https://nexusfang-tech.github.io)** · **[LinkedIn](https://www.linkedin.com/in/mskeith93)**
 
