@@ -19,6 +19,6 @@ I build production software, detection tooling and AI features as the sole techn
 
 Python · Go · PowerShell · Azure · Entra ID · Microsoft Graph · Anthropic API
 
-## Research in progress
+## Research
 
-**[Poisoned Context](https://github.com/NexusFang-tech/poisoned-context):** measures whether AI assistants follow instructions hidden in the database records they're given. The harness is public; results aren't published yet.
+**[Poisoned Context](https://github.com/NexusFang-tech/poisoned-context):** measures whether AI assistants trust instructions and false data hidden in database records. In 1,184 trials, Claude Haiku 5.5 obeyed no planted commands but often accepted false data unless warned.
